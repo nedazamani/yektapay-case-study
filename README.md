@@ -30,5 +30,6 @@ By simplifying the user journey, we achieved immediate and measurable business g
 Want to explore the complete discovery process, the wireframes, and the exact frameworks used to achieve these results? 
 
 👉 **[Download & Read the Full Case Study PDF Here](./yektapay-case-study.pdf)**
+> 💡 **UX Note:** *Due to the high-quality graphics and comprehensive data in this report, GitHub's built-in preview might take too long to load or show an error. Please use the direct download link above for the best reading experience.*
 
 > *Note: Click the link above to view the strategic breakdown directly, or use the download icon in the viewer for offline reading.*
